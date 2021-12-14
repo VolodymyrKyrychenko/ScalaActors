@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\SbtProjects\AkkaActors\target\scala-2.11\akkaactors_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\HelloActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\SbtProjects\AkkaActors\target\scala-2.11\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
